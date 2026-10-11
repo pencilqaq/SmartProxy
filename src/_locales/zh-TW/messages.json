@@ -220,7 +220,7 @@
 		"message": "智能功能"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong><a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Firefox</a> 獨享！</strong> 很遺憾，Chrome 不支援此功能。"
+		"message": "<strong><a href='{firefoxUrl}' target='_blank' rel='noopener'>Firefox</a> 獨享！</strong> 很遺憾，Chrome 不支援此功能。"
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "爲每個標籤/來源啓用代理"

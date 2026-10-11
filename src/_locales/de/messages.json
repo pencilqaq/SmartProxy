@@ -220,7 +220,7 @@
 		"message": "Intelligente Funktionen"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong>Nur in <a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Firefox</a>!</strong> Leider ist diese Funktion in Chrome nicht unterstützt."
+		"message": "<strong>Nur in <a href='{firefoxUrl}' target='_blank' rel='noopener'>Firefox</a>!</strong> Leider ist diese Funktion in Chrome nicht unterstützt."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "Proxy pro Tab/Origin aktivieren"

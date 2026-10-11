@@ -55,6 +55,9 @@ export let environment = {
 		name: "Default",
 		marketName: "Extensions",
 		marketUrl: ""
+	},
+	links: {
+		firefox: "https://www.firefox.com/"
 	}
 };
 

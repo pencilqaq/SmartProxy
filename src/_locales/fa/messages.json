@@ -220,7 +220,7 @@
 		"message": "ویژگی های هوشمند"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong>فقط مخصوص مرورگر <a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>فایرفاکس</a></strong> متاسفانه این ویژگی توسط مرورگر از نوع کروم پشتیبانی نمی شوند."
+		"message": "<strong>فقط مخصوص مرورگر <a href='{firefoxUrl}' target='_blank' rel='noopener'>فایرفاکس</a></strong> متاسفانه این ویژگی توسط مرورگر از نوع کروم پشتیبانی نمی شوند."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "پراکسی به کل تب و صفحه اعمال شود"

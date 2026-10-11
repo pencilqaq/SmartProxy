@@ -220,7 +220,7 @@
 		"message": "Akıllı Özellikler"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong><a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Sadece Firefox</a>!</strong> Maalesef bu özellik Chrome tarafından desteklenmiyor."
+		"message": "<strong><a href='{firefoxUrl}' target='_blank' rel='noopener'>Sadece Firefox</a>!</strong> Maalesef bu özellik Chrome tarafından desteklenmiyor."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "Sekme/orijin başına proxy etkinleştir"

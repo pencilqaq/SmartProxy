@@ -15,7 +15,7 @@
  * along with SmartProxy.  If not, see <http://www.gnu.org/licenses/>.
  */
 import { jQuery } from "../../lib/External";
-import { api } from "../../lib/environment";
+import { api, environment } from "../../lib/environment";
 import { GeneralOptions, PartialThemeDataType, themesCustomType, themesDarkFix, themesDataTablesDarkFix, ThemeType } from "../../core/definitions";
 import { Utils } from "../../lib/Utils";
 
@@ -63,7 +63,10 @@ export class CommonUi {
 		function replace_i18n(obj: any, tag: string) {
 			let msg = api.i18n.getMessage(tag.trim());
 
-			if (msg && msg != tag) obj.innerHTML = msg;
+			if (msg && msg != tag) {
+				msg = msg.replaceAll("{firefoxUrl}", environment.links.firefox);
+				obj.innerHTML = msg;
+			}
 		}
 
 		// page direction

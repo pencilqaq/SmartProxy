@@ -220,7 +220,7 @@
 		"message": "ميزات ذكية"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong><a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>فقط في Firefox</a>!</strong> للأسف هذه الميزة غير مدعومة في Chrome."
+		"message": "<strong><a href='{firefoxUrl}' target='_blank' rel='noopener'>فقط في Firefox</a>!</strong> للأسف هذه الميزة غير مدعومة في Chrome."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "تفعيل البروكسي لكل تبويب/أصل"

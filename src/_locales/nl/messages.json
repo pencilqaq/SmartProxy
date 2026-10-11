@@ -220,7 +220,7 @@
 		"message": "Slimme functies"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong>Alleen <a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Firefox</a>!</strong> Helaas wordt deze functie niet ondersteund door Chrome."
+		"message": "<strong>Alleen <a href='{firefoxUrl}' target='_blank' rel='noopener'>Firefox</a>!</strong> Helaas wordt deze functie niet ondersteund door Chrome."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "Proxy per tab/oorsprong inschakelen"

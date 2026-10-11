@@ -220,7 +220,7 @@
 		"message": "Интеллектуальные функции"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong>Только для <a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Firefox</a>!</strong> К сожалению, эта функция недоступна в Chrome."
+		"message": "<strong>Только для <a href='{firefoxUrl}' target='_blank' rel='noopener'>Firefox</a>!</strong> К сожалению, эта функция недоступна в Chrome."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "Использовать прокси для вкладки/источника"

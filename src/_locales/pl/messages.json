@@ -220,7 +220,7 @@
 		"message": "Funkcje inteligentne"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong>Tylko <a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Firefox</a>!</strong> Niestety ta funkcja nie jest obsługiwana przez Chrome."
+		"message": "<strong>Tylko <a href='{firefoxUrl}' target='_blank' rel='noopener'>Firefox</a>!</strong> Niestety ta funkcja nie jest obsługiwana przez Chrome."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "Włącz proxy dla karty/źródła"

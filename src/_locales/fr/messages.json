@@ -220,7 +220,7 @@
 		"message": "Fonctionnalités Smart"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong><a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Firefox</a> seulement !</strong> Malheureusement, cette fonctionnalité n'est pas prise en charge par Chrome."
+		"message": "<strong><a href='{firefoxUrl}' target='_blank' rel='noopener'>Firefox</a> seulement !</strong> Malheureusement, cette fonctionnalité n'est pas prise en charge par Chrome."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "Activer le proxy par onglet/origine"

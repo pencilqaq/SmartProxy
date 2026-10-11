@@ -415,6 +415,9 @@ export class settingsPage {
 
 		settingsPage.localized = true;
 		CommonUi.localizeHtmlPage();
+
+		// apply the link constants to the static (fallback) links
+		jq("[data-firefox-url]").attr("href", environment.links.firefox);
 	}
 
 	private static initializeUi() {

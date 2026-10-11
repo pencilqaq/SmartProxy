@@ -220,7 +220,7 @@
 		"message": "Funciones inteligentes"
 	},
 	"settingsGeneralSmartFeaturesNoChrome": {
-		"message": "<strong><a href='https://www.getfirefox.com/' target='_blank' rel='noopener'>Firefox</a> únicamente</strong>. Lamentablemente, esta función no es compatible con Chrome."
+		"message": "<strong><a href='{firefoxUrl}' target='_blank' rel='noopener'>Firefox</a> únicamente</strong>. Lamentablemente, esta función no es compatible con Chrome."
 	},
 	"settingsGeneralProxyPerOrigin": {
 		"message": "Habilitar proxy por pestaña/origen"
