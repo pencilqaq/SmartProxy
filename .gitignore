@@ -302,3 +302,6 @@ __pycache__/
 *.js
 src/assets/IPCountryDB
 IPCountryDB
+
+# Local planning documents (not committed)
+plans/
