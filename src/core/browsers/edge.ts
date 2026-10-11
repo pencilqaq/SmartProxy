@@ -5,3 +5,5 @@ environment.browserConfig = {
     marketName: "Edge Extensions",
     marketUrl: "https://microsoftedge.microsoft.com/addons/detail/canbjhbbhfggbdfgpddpnckdjgfcbnpb"
 };
+
+environment.manifestV3 = true;

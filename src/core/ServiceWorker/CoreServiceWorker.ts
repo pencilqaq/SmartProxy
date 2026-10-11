@@ -1,4 +1,4 @@
-/** Currently this is only for Google Chrome */
+/** Used by Chromium-based browsers (Chrome, Edge) for Manifest V3 service worker builds */
 
 import { Debug } from "../../lib/Debug";
 import { Core } from "../Core";
